@@ -78,7 +78,7 @@ Here are some screenshots of the test execution and report UI.
 ### 🤝 Contributors
 
 - **[Md Rafsan Mahmud](https://github.com/MdRafsanMahmud)** – Creator, QA Tester  
-- **[Salman Rahman](https://www.linkedin.com/in/kmsalmanrahman/)** – Reviewer / Contributor
+- **[Salman Rahman](https://github.com/salmansrabon)** – Reviewer / Contributor [LinkedIn](https://www.linkedin.com/in/kmsalmanrahman/)
 
 
 ---
